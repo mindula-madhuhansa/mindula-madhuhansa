@@ -1,3 +1,4 @@
+[![MasterHead](https://64.media.tumblr.com/fad698de81abf1f122ea815789e2d757/1ed9c10b867a1f1f-ca/s640x960/95f1e59a097f1d76aa3cc381fb7046c276f35028.gifv)]
 <h1 align="center">Hi 👋, I'm Mindula Madhuhansa</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
