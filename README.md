@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kdmindulamc" target="blank"><img src="https://img.shields.io/twitter/follow/kdmindulamc?logo=twitter&style=for-the-badge" alt="kdmindulamc" /></a> </p>
 
-- 🔭 I’m currently working on **Wasana Bakers WebApp**
+- 🔭 I’m currently working on [Train Ticket Price Calculator (TTPC)](https://github.com/mindula-madhuhansa/ttpc-project.git)
 
 - 🌱 I’m currently learning **React | Java**
 
