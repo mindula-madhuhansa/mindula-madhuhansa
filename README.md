@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Train Ticket Price Calculator (TTPC)](https://github.com/mindula-madhuhansa/ttpc-project.git)
 
-- 🌱 I’m currently learning **React | Java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mimmindula@gmail.com**
 
