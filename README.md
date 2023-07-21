@@ -1,12 +1,12 @@
 ![MasterHead](https://art.pixilart.com/cb97514d85c12ba.gif)
 <h1 align="center">Hi 👋, I'm Mindula Madhuhansa</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindula-madhuhansa&label=Profile%20views&color=0e75b6&style=flat" alt="mindula-madhuhansa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kdmindulamc" target="blank"><img src="https://img.shields.io/twitter/follow/kdmindulamc?logo=twitter&style=for-the-badge" alt="kdmindulamc" /></a> </p>
 
-- 🔭 I’m currently working on [Train Ticket Price Calculator (TTPC)](https://github.com/mindula-madhuhansa/ttpc-project.git)
+- 🔭 I’m currently working on [Your Drama List](https://github.com/mindula-madhuhansa/Your-Drama-List.git)
 
 - 🌱 I’m currently learning **Python**
 
