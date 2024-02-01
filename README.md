@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindula-madhuhansa" alt="mindula-madhuhansa" /></a> </p>
 
-- 🔭 I’m currently working on **Car Index System**
+- 🔭 I’m currently working on **EasyPark**
 
-- 🌱 I’m currently learning **Django, AR**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **mimmindula@gmail.com**
 
